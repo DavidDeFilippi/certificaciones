@@ -1,0 +1,4 @@
+[22-Nov-2018 18:04:14 UTC] PHP Parse error:  syntax error, unexpected '(', expecting '{' in /home/kzv9bwjvteuj/public_html/application/libraries/libwebpay/libwebpay/webpay-normal.php on line 186
+[22-Nov-2018 19:28:15 UTC] PHP Fatal error:  SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSWebpayService?wsdl' : failed to load external entity "http://webpay3gint.transbank.cl/WSWebpayTransaction/cxf/WSWebpayService?wsdl"
+ in /home/kzv9bwjvteuj/public_html/application/libraries/libwebpay/libwebpay/soap/soapclient.php on line 20
+[01-Dec-2018 15:36:15 UTC] PHP Fatal error:  SoapClient::SoapClient(): 'uri' option is required in nonWSDL mode in /home/kzv9bwjvteuj/public_html/application/libraries/libwebpay/libwebpay/soap/soapclient.php on line 20
